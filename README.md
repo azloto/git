@@ -1,2 +1,2 @@
 # git
-GIT Training
+the project used for training only
